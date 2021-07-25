@@ -13,7 +13,8 @@ Note: The percentage columns for Thomas HS do not include the 9th grade test per
 
 The five lowest performing schools are Rodriguez, Figueroa, Huang, Hernandex, and Johnson.  All are "District" schools and have a higher number of students than average.
 
-![image](https://user-images.githubusercontent.com/86205000/126915186-d0511f89-f836-40e3-aa8c-4a3578d56913.png)
+![image](https://github.com/gcmastra/School_District_Analysis/Resources/image3_section_of_per_school_summary_showing_THS_after_changes_v2.jpg
+)
 
 
 ## Graphics section - this is a summary of graphics/images used in the report
