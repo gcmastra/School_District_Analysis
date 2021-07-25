@@ -4,7 +4,7 @@
 
 The top 5 schools are Cabrera, Thomas, Griffin, Wilson, and Pena.  They are all charter schools.
 
-![image](https://user-images.githubusercontent.com/86205000/126915125-f8e75ff6-d4a0-4af5-a6e6-da2a26511211.png)
+![image](Resources/imge4_top_performing_schools_by_percent_passing.JPG)
 
 Note: The percentage columns for Thomas HS do not include the 9th grade test percentages pending an audit of the tests.
 
@@ -13,8 +13,7 @@ Note: The percentage columns for Thomas HS do not include the 9th grade test per
 
 The five lowest performing schools are Rodriguez, Figueroa, Huang, Hernandex, and Johnson.  All are "District" schools and have a higher number of students than average.
 
-![image](https://github.com/gcmastra/School_District_Analysis/Resources/image3_section_of_per_school_summary_showing_THS_after_changes_v2.jpg
-)
+![image](Resources/imge4_lowest_performing_schools_by_percent.JPG)
 
 
 ## Graphics section - this is a summary of graphics/images used in the report
@@ -31,7 +30,7 @@ This graphic shows the summary data per school before the Thomas HS 9th grade da
 
 Here is a graphic which shows the per school summary frame AFTER the numbers for Thomas HS have been updated.  When 9th grade test scores are excluded from the totals, the average test scores go down slightly.  This does not suggest the 9th grade test scores were fabricated to make the school averages look better. The change in percentages alone is not significant enough to suggest "dishonesty" was the motive. On the contrary they suggest any slight variation in the percentages could have been an honest mistake and perhaps an audit of the tests themselves would reveal the source of the error. 
 
-![image](https://user-images.githubusercontent.com/86205000/126914609-37e045bb-12d5-4b68-a036-c0944f0137d5.png)
+![image](Resources/image3_section_of_per_school_summary_showing_THS_after_changes.JPG)
 
 ## Additional Comments (not part of the main report)
 
